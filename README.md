@@ -72,7 +72,7 @@ const YifanModss = makeWASocket({
 });
 
 const number = "628XXXXX";
-const code = await client.requestPairingCode(number.trim) /* Use : (number, "YYYYYYYY") for custom-pairing */
+const code = await YifanModss.requestPairingCode(number.trim) /* Use : (number, "YYYYYYYY") for custom-pairing */
 
 console.log("Ur pairing code : " + code)
 ```
