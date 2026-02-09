@@ -1,16 +1,16 @@
 {
     "name": "yifantzyy",
-    "version": "1.7.3",
-    "description": "Have A Nice Day",
+    "version": "1.0.0",
+    "description": "just from japanese",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/kayzennotdev/bail",
+    "homepage": "https://github.com/yifan-source/buleys",
     "repository": {
-        "url": "https://github.com/kayzennotdev/bail"
+        "url": "https://github.com/yifan-source/buleys"
     },
     "license": "MIT",
-    "author": "kayzennotdev",
+    "author": "YifanModss",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://kayzennotdev/bail/issues"
+      "url": "https://yifan-source/bail/issues"
     }
 }
